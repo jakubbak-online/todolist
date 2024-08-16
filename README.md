@@ -1,6 +1,8 @@
 # React To Do list app
 ## Contents
-TBA
+My to-do list app made in React
+
+TBA: all the CSS
 ---
 <details open>
 <summary>My notes</summary>
